@@ -1,0 +1,14 @@
+{
+  "name": "memory-traveling-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/self-codex/memory-traveling-app.git",
+  "author": "Mohammed Talha <mtalha0018@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.5"
+  }
+}
